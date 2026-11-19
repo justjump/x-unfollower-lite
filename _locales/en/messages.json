@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "X Unfollower Lite — Followback Checker" },
+  "extDesc": { "message": "See right on the Following list who doesn't follow you back. Filter in place, unfollow in bulk, auto-confirm the dialog, export CSV. Works with Followers and Verified Followers too." },
+  "actionTitle": { "message": "Who doesn't follow you back" }
+}
